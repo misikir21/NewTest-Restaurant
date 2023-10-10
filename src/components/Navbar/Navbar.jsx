@@ -7,7 +7,7 @@ import "./Navbar.css";
 const Navbar = () => (
 	<nav className="app__navbar">
 		<div className="app__navbar-logo">
-			<img src={images.logo} alt="reataurant logo" />
+			<img src={images.gericht} alt="reataurant logo" />
 		</div>
 		<ul className="app__navbar-links">
 			<li className="p__opensans">
