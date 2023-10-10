@@ -143,7 +143,7 @@ In order to do it, fork this repository, create a new branch and open a Pull Req
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and Nelson Sakwa here <a href="https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma">sakwadesignstudio</a>
+I would like to thank the designer of the UI here <a href="https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma">sakwadesignstudio</a>
 
 ## 📝 License <a name="LICENSE"></a>
 
