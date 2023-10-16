@@ -25,7 +25,7 @@ return (
      <button className='custom__button' type='button'>View More</button> </div>
      <div className='app__gallery-images'>
       <div className='app__gallery_images_contianer' ref={scrollref}>
-        //loping throug gallery object
+        (/*loping throug gallery object*/)
         { Galleryimges.map((images,index)=>(
          <div className='app__galler-images_card flex__center' key={`Galleryimges-${index + 1}`}>
          <img src={images} alt="gallery" />
