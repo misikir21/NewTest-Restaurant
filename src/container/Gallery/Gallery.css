@@ -34,7 +34,7 @@
     width: max-content;
     overflow-x: scroll;
     -ms-overflow-style: none;
-    scrollbar-width: none;
+    scrollbar-width: none;  
 }
 
 .app__gallery-images_container::-webkit-scrollbar {
@@ -132,8 +132,8 @@
 @media screen and (max-width: 650px) {
     .app__gallery {
         padding: 4rem 0 4rem 2rem;
-    }
-
+    }  
+    
     .app__gallery-content {
         min-width: 100%;
     }
