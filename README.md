@@ -1,7 +1,6 @@
 <img width="146" alt="logo" src="https://github.com/misikir21/Weather/assets/41914268/d0739f6f-2e87-49bf-aaf1-517c0bc35b53">
 
 # Restaurant App
-
 This is a website for food lovers or anyone who is interested in checking out the dish offered. This web application is for individual, commercial and scientific  uses. The application will allow users to view available dishes and book a table. This application is built with JavaScript, HTML, CSS and React More here.
 
 # 📗 Table of Contents
