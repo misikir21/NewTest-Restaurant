@@ -58,11 +58,11 @@ This is a website for food lovers or anyone who is interested in checking out th
 - When the page loads, the web app shows the list of dish 🔃
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these easy steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need to this tools:
 
 - Web browser.
 - Code editor.
